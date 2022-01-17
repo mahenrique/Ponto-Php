@@ -1,0 +1,29 @@
+.timeDate{
+    text-align: center;
+    font-family: monospace;
+    margin: 0px 0px 15px;
+}
+
+.inputClock{
+	background: aqua;
+	width: 130px;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 20px;
+	text-align: center;
+}
+
+.areaInputRelogio{
+	background:  #FCFCFC; 
+	border-style: ridge;
+	padding: 50px;
+}
+
+.areaInputCadastro{
+	background:  #FCFCFC; 
+	border-style: ridge;
+	padding: 50px;
+}
+
+.formRegistro{
+	width: 200px;
+}
